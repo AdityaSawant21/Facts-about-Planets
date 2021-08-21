@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Planets-fact-site/static/css/main.88b10eb0.chunk.css",
+    "main.js": "/Planets-fact-site/static/js/main.dc8f1a7d.chunk.js",
+    "main.js.map": "/Planets-fact-site/static/js/main.dc8f1a7d.chunk.js.map",
+    "runtime-main.js": "/Planets-fact-site/static/js/runtime-main.0edf24b4.js",
+    "runtime-main.js.map": "/Planets-fact-site/static/js/runtime-main.0edf24b4.js.map",
+    "static/js/2.b2253643.chunk.js": "/Planets-fact-site/static/js/2.b2253643.chunk.js",
+    "static/js/2.b2253643.chunk.js.map": "/Planets-fact-site/static/js/2.b2253643.chunk.js.map",
+    "index.html": "/Planets-fact-site/index.html",
+    "static/css/main.88b10eb0.chunk.css.map": "/Planets-fact-site/static/css/main.88b10eb0.chunk.css.map",
+    "static/js/2.b2253643.chunk.js.LICENSE.txt": "/Planets-fact-site/static/js/2.b2253643.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Planets-fact-site/static/media/background-stars.f6233a6a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0edf24b4.js",
+    "static/js/2.b2253643.chunk.js",
+    "static/css/main.88b10eb0.chunk.css",
+    "static/js/main.dc8f1a7d.chunk.js"
+  ]
+}
